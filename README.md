@@ -95,9 +95,6 @@ level = "error"
 - Ensure the API endpoint URL is correct
 - Validate your JSON body for proper formatting
 
-## Screenshots
-
-*[Add screenshots of your application here]*
 
 ## Requirements
 
