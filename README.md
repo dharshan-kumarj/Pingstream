@@ -1,6 +1,6 @@
 # Lightweight API Tester
 
-![API Tester Banner](https://via.placeholder.com/800x200?text=Lightweight+API+Tester)
+
 
 ## Overview
 
@@ -37,7 +37,7 @@ Lightweight API Tester is a minimalist, resource-efficient GUI tool for testing 
 
 3. Run the application:
    ```bash
-   streamlit run api_tester.py
+   streamlit run api_tool.py
    ```
 
 ## Usage Guide
@@ -95,9 +95,6 @@ level = "error"
 - Ensure the API endpoint URL is correct
 - Validate your JSON body for proper formatting
 
-## Screenshots
-
-*[Add screenshots of your application here]*
 
 ## Requirements
 
@@ -105,9 +102,6 @@ level = "error"
 - Streamlit
 - curl
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Created By
 
