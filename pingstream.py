@@ -6,7 +6,7 @@ import os
 import uuid
 from datetime import datetime
 
-st.set_page_config(page_title="Lightweight API Tester", layout="wide")
+st.set_page_config(page_title="pingstream", layout="wide")
 
 # Add custom CSS for a cleaner look
 st.markdown("""
@@ -209,7 +209,7 @@ def load_request(request_data):
     st.session_state.body = request_data['body']
 
 def main():
-    st.title("🚀 Lightweight API Tester")
+    st.title("🚀 Pingstream")
     
     # Initialize session state variables
     if 'collections' not in st.session_state:
