@@ -38,7 +38,7 @@ cd pingstream
 pip install streamlit
 
 # Run the app
-streamlit run api_tool.py
+streamlit run pingstream.py
 ```
 
 ---
@@ -88,7 +88,7 @@ streamlit run api_tool.py
 If you see warnings like `missing ScriptRunContext`, you can suppress them with:
 
 ```bash
-streamlit run api_tool.py --logger.level=error
+streamlit run pingstream.py --logger.level=error
 ```
 
 Or create a config file:
