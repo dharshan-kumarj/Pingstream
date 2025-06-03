@@ -115,11 +115,16 @@ level = "error"
 
 ---
 
+
 ## 👨‍💻 Created By
 
 **Pingstream** was developed by [@dharshan-kumarj](https://github.com/dharshan-kumarj) on April 13, 2025, with love for developers using low-end machines.
 
+**UI Enhancements by** [@ronnie-allen](https://github.com/ronnie-allen) — improving the design and experience of the Streamlit interface.
+
 > 💡 Built on Linux, powered by `curl`, and designed to work even when your RAM says “no”.
 
 ---
+
+
 
